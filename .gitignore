@@ -158,3 +158,19 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# Dataset folder and add-ons
+data/
+
+# Env dir
+neural_env/
+pytorch_exampl/
+
+# Pycache and training data for sentiment project
+sentiment_analysis/training_data/
+sentiment_analysis/__pycache__/
+
+# Pycache and training data for digit recognition
+digit_recognition/training_data/
+digit_recognition/train_archive/
+digit_recognition/__pycache__/
