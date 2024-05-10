@@ -11,6 +11,6 @@
 ### Optionaly - for GPU support all CUDA related and neccesary files (you can find them here [CUDA Installation Guide](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html))
 
 ## Used databases:
-### Sentiment Analysis - 
+### Sentiment Analysis - [Emotions dataset for NLP](https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp/data)
 
-### Digit Recognition - MNIST Dataset - thank you for the possibility of use - https://github.com/soerenab/AudioMNIST
+### Digit Recognition - [MNIST Dataset](https://github.com/soerenab/AudioMNIST)
